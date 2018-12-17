@@ -1,0 +1,12 @@
+F:\GitCode\NetCore\YTest\Test.Web\Test.Entity\bin\Debug\netcoreapp2.0\Test.Entity.deps.json
+F:\GitCode\NetCore\YTest\Test.Web\Test.Entity\bin\Debug\netcoreapp2.0\Test.Entity.dll
+F:\GitCode\NetCore\YTest\Test.Web\Test.Entity\obj\Debug\netcoreapp2.0\Test.Entity.csproj.CoreCompileInputs.cache
+F:\GitCode\NetCore\YTest\Test.Web\Test.Entity\obj\Debug\netcoreapp2.0\Test.Entity.AssemblyInfoInputs.cache
+F:\GitCode\NetCore\YTest\Test.Web\Test.Entity\obj\Debug\netcoreapp2.0\Test.Entity.AssemblyInfo.cs
+F:\GitCode\NetCore\YTest\Test.Web\Test.Entity\bin\Debug\netcoreapp2.0\Test.Entity.pdb
+F:\GitCode\NetCore\YTest\Test.Web\Test.Entity\obj\Debug\netcoreapp2.0\Test.Entity.csprojResolveAssemblyReference.cache
+F:\GitCode\NetCore\YTest\Test.Web\Test.Entity\obj\Debug\netcoreapp2.0\Test.Entity.dll
+F:\GitCode\NetCore\YTest\Test.Web\Test.Entity\obj\Debug\netcoreapp2.0\Test.Entity.pdb
+F:\GitCode\NetCore\YTest\Test.Web\Test.Entity\bin\Debug\netcoreapp2.0\Test.Core.dll
+F:\GitCode\NetCore\YTest\Test.Web\Test.Entity\bin\Debug\netcoreapp2.0\Test.Core.pdb
+F:\GitCode\NetCore\YTest\Test.Web\Test.Entity\obj\Debug\netcoreapp2.0\Test.Entity.csproj.CopyComplete
