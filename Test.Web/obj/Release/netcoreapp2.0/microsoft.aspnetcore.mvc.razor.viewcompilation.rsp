@@ -1,0 +1,5 @@
+F:\GitCode\NetCore\YTest\Test.Web\Test.Web
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=Test.Web
+--content-root=F:\GitCode\NetCore\YTest\Test.Web\Test.Web
+--file=

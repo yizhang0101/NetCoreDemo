@@ -1,0 +1,9 @@
+F:\GitCode\NetCore\YTest\Test.Web\Test.Core\bin\Release\netcoreapp2.0\Test.Core.deps.json
+F:\GitCode\NetCore\YTest\Test.Web\Test.Core\bin\Release\netcoreapp2.0\Test.Core.dll
+F:\GitCode\NetCore\YTest\Test.Web\Test.Core\bin\Release\netcoreapp2.0\Test.Core.pdb
+F:\GitCode\NetCore\YTest\Test.Web\Test.Core\obj\Release\netcoreapp2.0\Test.Core.csproj.CoreCompileInputs.cache
+F:\GitCode\NetCore\YTest\Test.Web\Test.Core\obj\Release\netcoreapp2.0\Test.Core.AssemblyInfoInputs.cache
+F:\GitCode\NetCore\YTest\Test.Web\Test.Core\obj\Release\netcoreapp2.0\Test.Core.AssemblyInfo.cs
+F:\GitCode\NetCore\YTest\Test.Web\Test.Core\obj\Release\netcoreapp2.0\Test.Core.dll
+F:\GitCode\NetCore\YTest\Test.Web\Test.Core\obj\Release\netcoreapp2.0\Test.Core.pdb
+F:\GitCode\NetCore\YTest\Test.Web\Test.Core\obj\Release\netcoreapp2.0\Test.Core.csprojResolveAssemblyReference.cache

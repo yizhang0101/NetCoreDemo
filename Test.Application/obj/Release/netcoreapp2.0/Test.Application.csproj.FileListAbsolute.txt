@@ -1,0 +1,16 @@
+F:\GitCode\NetCore\YTest\Test.Web\Test.Application\bin\Release\netcoreapp2.0\Test.Application.deps.json
+F:\GitCode\NetCore\YTest\Test.Web\Test.Application\bin\Release\netcoreapp2.0\Test.Application.dll
+F:\GitCode\NetCore\YTest\Test.Web\Test.Application\bin\Release\netcoreapp2.0\Test.Application.pdb
+F:\GitCode\NetCore\YTest\Test.Web\Test.Application\bin\Release\netcoreapp2.0\Test.Core.dll
+F:\GitCode\NetCore\YTest\Test.Web\Test.Application\bin\Release\netcoreapp2.0\Test.Domain.dll
+F:\GitCode\NetCore\YTest\Test.Web\Test.Application\bin\Release\netcoreapp2.0\Test.EntityFramworkCore.dll
+F:\GitCode\NetCore\YTest\Test.Web\Test.Application\bin\Release\netcoreapp2.0\Test.Core.pdb
+F:\GitCode\NetCore\YTest\Test.Web\Test.Application\bin\Release\netcoreapp2.0\Test.EntityFramworkCore.pdb
+F:\GitCode\NetCore\YTest\Test.Web\Test.Application\bin\Release\netcoreapp2.0\Test.Domain.pdb
+F:\GitCode\NetCore\YTest\Test.Web\Test.Application\obj\Release\netcoreapp2.0\Test.Application.csprojResolveAssemblyReference.cache
+F:\GitCode\NetCore\YTest\Test.Web\Test.Application\obj\Release\netcoreapp2.0\Test.Application.csproj.CoreCompileInputs.cache
+F:\GitCode\NetCore\YTest\Test.Web\Test.Application\obj\Release\netcoreapp2.0\Test.Application.AssemblyInfoInputs.cache
+F:\GitCode\NetCore\YTest\Test.Web\Test.Application\obj\Release\netcoreapp2.0\Test.Application.AssemblyInfo.cs
+F:\GitCode\NetCore\YTest\Test.Web\Test.Application\obj\Release\netcoreapp2.0\Test.Application.csproj.CopyComplete
+F:\GitCode\NetCore\YTest\Test.Web\Test.Application\obj\Release\netcoreapp2.0\Test.Application.dll
+F:\GitCode\NetCore\YTest\Test.Web\Test.Application\obj\Release\netcoreapp2.0\Test.Application.pdb
